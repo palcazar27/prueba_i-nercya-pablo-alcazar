@@ -1,0 +1,11 @@
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Catalog\Catalog\bin\Debug\netcoreapp2.1\Catalog.deps.json
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Catalog\Catalog\bin\Debug\netcoreapp2.1\Catalog.runtimeconfig.json
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Catalog\Catalog\bin\Debug\netcoreapp2.1\Catalog.runtimeconfig.dev.json
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Catalog\Catalog\bin\Debug\netcoreapp2.1\Catalog.dll
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Catalog\Catalog\bin\Debug\netcoreapp2.1\Catalog.pdb
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Catalog\Catalog\obj\Debug\netcoreapp2.1\Catalog.csprojAssemblyReference.cache
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Catalog\Catalog\obj\Debug\netcoreapp2.1\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Catalog\Catalog\obj\Debug\netcoreapp2.1\Catalog.AssemblyInfoInputs.cache
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Catalog\Catalog\obj\Debug\netcoreapp2.1\Catalog.AssemblyInfo.cs
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Catalog\Catalog\obj\Debug\netcoreapp2.1\Catalog.dll
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Catalog\Catalog\obj\Debug\netcoreapp2.1\Catalog.pdb

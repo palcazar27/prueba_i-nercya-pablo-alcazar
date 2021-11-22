@@ -1,0 +1,12 @@
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Customers\Customers\bin\Debug\netcoreapp2.1\Customers.dll.config
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Customers\Customers\bin\Debug\netcoreapp2.1\Customers.deps.json
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Customers\Customers\bin\Debug\netcoreapp2.1\Customers.runtimeconfig.json
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Customers\Customers\bin\Debug\netcoreapp2.1\Customers.runtimeconfig.dev.json
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Customers\Customers\bin\Debug\netcoreapp2.1\Customers.dll
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Customers\Customers\obj\Debug\netcoreapp2.1\Customers.csprojAssemblyReference.cache
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Customers\Customers\obj\Debug\netcoreapp2.1\Customers.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Customers\Customers\obj\Debug\netcoreapp2.1\Customers.AssemblyInfoInputs.cache
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Customers\Customers\obj\Debug\netcoreapp2.1\Customers.AssemblyInfo.cs
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Customers\Customers\bin\Debug\netcoreapp2.1\Customers.pdb
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Customers\Customers\obj\Debug\netcoreapp2.1\Customers.dll
+C:\Users\Pablo\Documents\pruebas i-nercya\repos\Customers\Customers\obj\Debug\netcoreapp2.1\Customers.pdb
